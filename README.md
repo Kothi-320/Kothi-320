@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kothi-320
+- 👋 Hi, I’m @Kothi
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning py,js
 - 💞️ I’m looking to collaborate on ...
